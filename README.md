@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I make Youtube Videos**
 
-<p align="right" align="center"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coder GIF" width="250" height="200">
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coder GIF" width="250" height="200">
 
 <br>
 <br>
