@@ -2,6 +2,8 @@
 <h1 align="center">Hey 👋, I'm Naman Jain</h1>
 <h3 align="center">An enthusiastic person who loves to study and teach Data structure and Algorithms</h3>
 
+<div align="center>
+### About Me 👨‍💻:
 - 🌱 I’m currently learning **Full Stack Web Development using MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/namanjn619](https://github.com/namanjn619)
@@ -11,8 +13,7 @@
 - 📫 How to reach me **namanjn619@gmail.com**
 
 - ⚡ Fun fact **I make Youtube Videos**
-
-
+          </div>
 
 
 
@@ -21,7 +22,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-<p margin="1000px" align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanjn619&show_icons=true&locale=en&layout=compact" alt="namanjn619" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanjn619&show_icons=true&locale=en&layout=compact" alt="namanjn619" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namanjn619&show_icons=true&locale=en" alt="namanjn619" /></p>
 
@@ -31,15 +32,10 @@
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpiyushsharma220699%2Fhit-counter&count_bg=%2379C83D&title_bg=%234E5052&icon=&icon_color=%23E7E7E7&title=Visitors+Count&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/piyushsharma220699)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 
 
-### About Me 👨‍💻:
 
-A Tech enthusiast and a leader by nature, I have keen interest in learning the latest technologies in the market. Being a writer, an actor and a motivator, I'm able to create a fun loving positive environment around myself wherever I go.
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
