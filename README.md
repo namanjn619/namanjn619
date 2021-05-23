@@ -9,6 +9,7 @@
 
 
 ### About Me 👨‍💻:
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coder GIF" width="250" height="200">
 - 🌱 I’m currently learning **Full Stack Web Development using MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/namanjn619](https://github.com/namanjn619)
@@ -19,7 +20,7 @@
 
 - ⚡ Fun fact **I make Youtube Videos**
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coder GIF" width="250" height="200">
+
 
 <br>
 <br>
