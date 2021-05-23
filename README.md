@@ -13,12 +13,6 @@
 - ⚡ Fun fact **I make Youtube Videos**
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/naman-jain-15882584/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="namannnnnnnnx" height="35" width="130" /></a>
-<a href="https://www.instagram.com/namannnnnnnnx/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="namannnnnnnnx" height="35" width="130" /></a>
-<a href="https://www.youtube.com/channel/UCFOLHRAOcTPzeuYIgRSvBTg" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Naman Jain" height="35" width="130" /></a>
-</p>
 
 
 
@@ -37,17 +31,11 @@
 
 
 
-
-
-[<img src="https://github.com/piyushsharma220699/piyushsharma220699/blob/main/Introduction.gif" alt="👋 Hi there! I'm Piyush Sharma" title="👋 Hi there! I'm Piyush Sharma"/>](https://www.youtube.com/c/TechieSharma/)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpiyushsharma220699%2Fhit-counter&count_bg=%2379C83D&title_bg=%234E5052&icon=&icon_color=%23E7E7E7&title=Visitors+Count&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/piyushsharma220699)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
-<div align="center">
-<i>Please feel free to clone projects, raise issues and submit PRs if you think something could be better!</i>
-</div>
+
 
 ### About Me 👨‍💻:
 
@@ -56,15 +44,18 @@ A Tech enthusiast and a leader by nature, I have keen interest in learning the l
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ### GitHub Profile Stats 📈:
-<div align="center">
-  
-[![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushsharma220699&count_private=true)](https://github.com/piyushsharma220699)
-
+<div align="center"> 
+[![Naman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=namanjn619&count_private=true)](https://github.com/namanjn619)
 </div>
 
-### Find me around the Web (I'll Love To Connect! 😄):
 
 
 
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/naman-jain-15882584/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="namannnnnnnnx" height="35" width="130" /></a>
+<a href="https://www.instagram.com/namannnnnnnnx/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="namannnnnnnnx" height="35" width="130" /></a>
+<a href="https://www.youtube.com/channel/UCFOLHRAOcTPzeuYIgRSvBTg" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Naman Jain" height="35" width="130" /></a>
+</p>
 
