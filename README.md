@@ -2,7 +2,20 @@
 <h1 align="center">Hey 👋, I'm Naman Jain</h1>
 <h3 align="center">An enthusiastic person who loves to study and teach Data structure and Algorithms</h3>
 
-<div align="center>
+<br>
+<br>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/naman-jain-15882584/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="namannnnnnnnx" height="35" width="130" /></a>
+<a href="https://www.instagram.com/namannnnnnnnx/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="namannnnnnnnx" height="35" width="130" /></a>
+<a href="https://www.youtube.com/channel/UCFOLHRAOcTPzeuYIgRSvBTg" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Naman Jain" height="35" width="130" /></a>
+</p>
+
+
+
+
+
 ### About Me 👨‍💻:
 - 🌱 I’m currently learning **Full Stack Web Development using MERN Stack**
 
@@ -13,7 +26,7 @@
 - 📫 How to reach me **namanjn619@gmail.com**
 
 - ⚡ Fun fact **I make Youtube Videos**
-          </div>
+
 
 
 
@@ -41,11 +54,4 @@
 
 
 
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/naman-jain-15882584/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="namannnnnnnnx" height="35" width="130" /></a>
-<a href="https://www.instagram.com/namannnnnnnnx/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="namannnnnnnnx" height="35" width="130" /></a>
-<a href="https://www.youtube.com/channel/UCFOLHRAOcTPzeuYIgRSvBTg" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Naman Jain" height="35" width="130" /></a>
-</p>
 
