@@ -15,9 +15,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/naman-jain-15882584/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="namannnnnnnnx" height="30" width="40" /></a>
-<a href="https://www.instagram.com/namannnnnnnnx/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="namannnnnnnnx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCFOLHRAOcTPzeuYIgRSvBTg" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Naman Jain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naman-jain-15882584/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="namannnnnnnnx" height="30" width="100" /></a>
+<a href="https://www.instagram.com/namannnnnnnnx/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="namannnnnnnnx" height="30" width="100" /></a>
+<a href="https://www.youtube.com/channel/UCFOLHRAOcTPzeuYIgRSvBTg" target="blank"><img align="center" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="Naman Jain" height="30" width="100" /></a>
 </p>
 
 
