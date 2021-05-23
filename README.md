@@ -18,7 +18,7 @@
 - 📫 How to reach me **namanjn619@gmail.com**
 
 - ⚡ Fun fact **I make Youtube Videos**
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250" height="200">
+<p  align="center"><img src="https://tenor.com/view/cat-computer-gif-5368357" alt="Coder GIF" width="250" height="200">
 
 
 <br>
@@ -60,4 +60,3 @@
 
 
 
-<div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/cat-computer-gif-5368357">Cat Computer GIF</a> from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
