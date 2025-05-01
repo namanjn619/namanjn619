@@ -1,6 +1,8 @@
 
-<h1 align="center">Hey 👋, I'm Naman Jain</h1>
-<h3 align="center">An enthusiastic person who loves to study and teach Data structure and Algorithms</h3>
+<h1 align="center">Hey 👋, I'm Naman</h1>
+<h3 align="center">I’m a code alchemist who brews MERN potions by day, wrestles DSA dragons by night, and trains ML models that might secretly be plotting world domination.
+Soon joining Amdocs as an SDE—so yes, I get paid to break and fix things!
+I love listening to people's stories and secretly psychoanalyzing their bugs and brains.</h3>
 
 
 <br>
